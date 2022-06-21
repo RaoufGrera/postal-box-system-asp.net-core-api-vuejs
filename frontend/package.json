@@ -1,0 +1,49 @@
+{
+  "name": "bbox",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve ",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.14.7",
+    "vee-validate": "^2.1.4",
+    "vue": "^2.5.17",
+    "vue-chartjs": "^3.4.2",
+    "vue-facebook-signin-button-directive": "^1.0.1",
+    "vue-google-signin-button-directive": "^1.0.2",
+    "vue-html-to-paper": "^1.1.0",
+    "vue-loader": "^15.4.2",
+    "vue-moment": "^4.0.0",
+    "vue-print-nb": "^1.3.0",
+    "vue-router": "^3.0.1",
+    "vuejs-datepicker": "^1.5.4",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.1.1",
+    "@vue/cli-service": "^4.5.15",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
